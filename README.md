@@ -2,14 +2,14 @@
 
 ## A news app that keeps you up to date on the latest happenings in the tech industry. You can also save your articles and read them in offline mode. 
 
-### The tech stack that I used is :- 
+### The tech stack that I used is:- 
 #### 1. Flutter
 #### 2. FireBase
 #### 3. Hive
 
 ## Getting Started
 
-To run this app, enable developer mode on your android device, plus your phone in and run the following commands 
+To run this app, enable developer mode on your android device, attach your phone to your laptop in and run the following commands 
 
 ```
 git clone https://github.com/Sh0g0-1758/up2date
