@@ -27,6 +27,7 @@ class _SavedArticlepageState extends State<SavedArticlepage> {
 
   void signUserOut() async {
     await FirebaseAuth.instance.signOut();
+    Navigator.of(context).pushNamed('/');
   }
 
   @override

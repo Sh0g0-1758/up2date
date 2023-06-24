@@ -31,6 +31,7 @@ class _MainPageState extends State<MainPage> {
 
   void signUserOut() async {
     await FirebaseAuth.instance.signOut();
+    Navigator.of(context).pushNamed('/');
   }
 
   @override
